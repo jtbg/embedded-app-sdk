@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.2.1](https://github.com/discord/embedded-app-sdk/compare/v1.2.0...v1.2.1) (2024-06-05)
+
+
+### Bug Fixes
+
+* **deps:** unpin big-integer and decimal.js-light ([#156](https://github.com/discord/embedded-app-sdk/issues/156)) ([860cd87](https://github.com/discord/embedded-app-sdk/commit/860cd874dc7ea21beec58a8adbf81661b910e80d))
+* **deps:** update dependency esbuild to v0.21.3 ([#198](https://github.com/discord/embedded-app-sdk/issues/198)) ([08e77ef](https://github.com/discord/embedded-app-sdk/commit/08e77ef4d80215611c87c5b981533890f8ee19e0))
+* **deps:** update dependency eventemitter3 to v5 ([#187](https://github.com/discord/embedded-app-sdk/issues/187)) ([2aa5971](https://github.com/discord/embedded-app-sdk/commit/2aa5971600d339e24aa0648358546b705600b095))
+* remove unavailable options from "setActivity" command ([#193](https://github.com/discord/embedded-app-sdk/issues/193)) ([e70decc](https://github.com/discord/embedded-app-sdk/commit/e70deccc7a473eda53f90d2c643e241dfe683b5b))
+
 ## [1.2.0](https://github.com/discord/embedded-app-sdk/compare/v1.1.2...v1.2.0) (2024-04-23)
 
 
